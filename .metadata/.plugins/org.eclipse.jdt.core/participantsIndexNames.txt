@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+/root/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1348521380.index
+/maven-demo2-webapp/src/main/resources
+/root/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1144846206.index
+/maven-demowebapp/src/main/resources

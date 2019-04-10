@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 source folders to &apos;maven-demo2-webapp&apos;&#x0A;- Original project: &apos;maven-demo&apos;&#x0A;- Destination element: &apos;maven-demo2-webapp&apos;&#x0A;- Original elements:&#x0A;     maven-demo/src/test/java&#x0A;     maven-demo/src/main/java" description="Copy source folders" element1="/src\/test\/java" element2="/src\/main\/java" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="2" stamp="1554787330052" target="/maven-demo2-webapp" version="1.0"/>
+</session>
